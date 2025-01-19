@@ -1,0 +1,8 @@
+﻿Id,MemberId,TimeReceived,TimeFulfilled,Option,Scoops,Dipped,WaffleFlavour,Flavour1,Flavour2,Flavour3,Topping1,Topping2,Topping3,Topping4
+1,123456,12/12/2023 13:28,27/10/2023 13:51,Cone,3,TRUE,,Ube,Sea Salt,Vanilla,,,,
+2,122123,27/10/2023 13:50,27/10/2023 13:59,Cone,2,FALSE,,Chocolate,Chocolate,,Sprinkles,Mochi,Sago,Oreos
+3,234567,1/1/2024 15:50,3/1/2024 16:03,Waffle,1,,Original,Sea Salt,,,Sprinkles,Oreos,,
+3,234567,1/1/2024 15:50,3/1/2024 16:03,Cone,2,FALSE,,Strawberry,,,,,,
+3,234567,1/1/2024 15:50,3/1/2024 16:03,Waffle,3,,Red Velvet,Sea Salt,Durian,Durian,,,,
+4,985675,6/8/2024 17:02,9/1/2024 17:07,Cup,2,,,Vanilla,Chocolate,,Oreos,,,
+4,985675,6/8/2024 17:02,9/1/2024 17:07,Cup,1,,,Sea Salt,,,Sprinkles,,,
